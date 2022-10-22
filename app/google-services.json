@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "107691843423",
+    "project_id": "nursyah-test",
+    "storage_bucket": "nursyah-test.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:107691843423:android:20833c34f1306910f6a0ea",
+        "android_client_info": {
+          "package_name": "com.nursyah.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "107691843423-j2rh3g539jl79pbcm9lcgjb2gt52ctkr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nursyah.firebase",
+            "certificate_hash": "d019866477602cadd11004442d96e5e826e79227"
+          }
+        },
+        {
+          "client_id": "107691843423-u4e4f5jadqk39puskct8d00l9gscbtl0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCC5BdYbSqx04kdulorgEmj9LKxehnu_nw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "107691843423-u4e4f5jadqk39puskct8d00l9gscbtl0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
